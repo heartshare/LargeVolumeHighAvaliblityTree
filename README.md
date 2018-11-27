@@ -21,3 +21,12 @@
   19）路由表 数据拆分
 </pre>
 
+TiDB/MYSQL高可用方案
+
+![](https://i.imgur.com/CR6yLb7.png)
+
+<pre>
+高可用MYSQL方案：
+      
+</pre>
+
